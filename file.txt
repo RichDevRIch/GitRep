@@ -1,5 +1,1 @@
-test
-newLine
-onemoreLine
-dline
-dline2a
+final
