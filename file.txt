@@ -1,4 +1,1 @@
 test
-newLine
-onemoreLine
-dline
